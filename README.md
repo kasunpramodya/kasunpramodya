@@ -1,6 +1,8 @@
 <!-- ========================================================== -->
 <!-- 🧠 Kasun Pramodya | Electronics & AI Researcher             -->
 <!-- ========================================================== -->
+<!-- top of README.md -->
+![Kasun Banner](./banner.svg)
 
 <h1 align="center">👋 Kasun Pramodya N.K. Arachchi</h1>
 <h3 align="center">⚡ Electronics & AI Researcher | Embedded Vision & Intelligent Systems ⚡</h3>
