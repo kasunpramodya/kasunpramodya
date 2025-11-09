@@ -2,7 +2,8 @@
 <!-- 🧠 Kasun Pramodya | Electronics & AI Researcher             -->
 <!-- ========================================================== -->
 <!-- top of README.md -->
-![Kasun Banner](./banner.svg)
+![Kasun Banner](./banners.svg)
+![Kasun Pramodya](./profile.jpg)
 
 <h1 align="center">👋 Kasun Pramodya N.K. Arachchi</h1>
 <h3 align="center">⚡ Electronics & AI Researcher | Embedded Vision & Intelligent Systems ⚡</h3>
@@ -12,6 +13,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="./profile.jpg" alt="Kasun Pramodya" width="200" style="border-radius:50%;">
+</p>
 
 ### 🧑‍🔬 About Me
 
@@ -72,16 +76,3 @@ I love blending **hardware and intelligence** — from microcontrollers to neura
 | **OS Platforms** | Windows, Ubuntu, Linux |
 
 ---
-
-### ⚡ Quick Terminal Preview
-
-```bash
-
-# clone my AI inspection repo
-git clone https://github.com/kasunpramodya/pcb-fault-analyzer
-cd pcb-fault-analyzer
-
-# setup and run adaptive inference
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-python infer.py --source camera --adaptive-feedback
