@@ -3,7 +3,7 @@
 <!-- ========================================================== -->
 <!-- top of README.md -->
 ![Kasun Banner](./banners.svg)
-![Kasun Pramodya](./profile.jpg)
+![Kasun Pramodya](./profile.png)
 
 <h1 align="center">👋 Kasun Pramodya N.K. Arachchi</h1>
 <h3 align="center">⚡ Electronics & AI Researcher | Embedded Vision & Intelligent Systems ⚡</h3>
@@ -14,7 +14,7 @@
 
 ---
 <p align="center">
-  <img src="./profile.jpg" alt="Kasun Pramodya" width="200" style="border-radius:50%;">
+  <img src="./profile.png" alt="Kasun Pramodya" width="200" style="border-radius:50%;">
 </p>
 
 ### 🧑‍🔬 About Me
