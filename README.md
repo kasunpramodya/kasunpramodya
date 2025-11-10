@@ -5,7 +5,7 @@
 ![Kasun Banner](./banners.svg)
 ---
 <p align="center">
-  <img src="./profile.png" alt="Kasun Pramodya" width="200" style="border-radius:50%;">
+  <img src="./pro.png" alt="Kasun Pramodya" width="200" style="border-radius:50%;">
 </p>
 
 
