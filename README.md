@@ -3,7 +3,11 @@
 <!-- ========================================================== -->
 <!-- top of README.md -->
 ![Kasun Banner](./banners.svg)
-![Kasun Pramodya](./profile.png)
+---
+<p align="center">
+  <img src="./profile.png" alt="Kasun Pramodya" width="200" style="border-radius:50%;">
+</p>
+
 
 <h1 align="center">👋 Kasun Pramodya N.K. Arachchi</h1>
 <h3 align="center">⚡ Electronics & AI Researcher | Embedded Vision & Intelligent Systems ⚡</h3>
@@ -12,10 +16,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=👨‍💻+Designing+machines+that+see+like+humans;🤖+Vision-Based+PCB+Fault+Analyzer;🧠+AI+%2B+Embedded+Systems+%2B+Adaptive+Feedback;🚀+Deep+Learning+%7C+Computer+Vision+%7C+Edge+AI" alt="Typing SVG" />
 </p>
 
----
-<p align="center">
-  <img src="./profile.png" alt="Kasun Pramodya" width="200" style="border-radius:50%;">
-</p>
 
 ### 🧑‍🔬 About Me
 
